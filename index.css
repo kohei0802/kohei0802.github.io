@@ -1,0 +1,123 @@
+aside {
+    font-weight: bold;
+    background-color: rgb(255, 237, 220);
+}
+
+main {
+    width: 40%;
+    margin-left: 15%;
+}
+
+nav {
+    margin-top: 40px;
+    background-color: peachpuff;
+    border: 1px solid black;
+}
+
+table {
+    background-color: #e5e5d0;
+    width: 50%;
+    margin-left: 25%;
+    display: inline-block;
+}
+
+th {
+    font-family: "Arial Black", 'Segoe UI', sans-serif;
+    width: 250px;
+}
+
+a {}
+
+.nav {
+    color: black;
+    text-decoration: none;
+}
+
+.ln {
+    color: red;
+    text-decoration: underline dotted red;
+}
+
+.ref {
+    font-size: 17px;
+    font-family: "Arial Black", 'Segoe UI', sans-serif;
+    color: black;
+    text-decoration: underline dotted black;
+}
+
+form {
+    display: inline-block;
+    position: relative;
+    bottom: 7px;
+    left: 10px;
+}
+
+input {
+    width: 250px;
+}
+
+div.header {
+    /* border: 0.8em darkviolet; */
+    /* margin: 1em 0; */
+    padding: 3.5em;
+    background-image: url(https://9-shu.jp/wp-content/uploads/2017/08/C777_yakushimanomori_TP_V-1024x685.jpg);
+    background-repeat: repeat-x;
+}
+
+div.ref {
+    width: 40%;
+    margin-left: 15%;
+}
+
+div.end {
+    block-size: 100px;
+    background-color: black;
+}
+
+div.select {
+    position: relative;
+    top: 40px;
+    left: 100px;
+}
+
+p {
+    font-weight: normal;
+}
+
+p.jp {
+    color: white;
+    /* background-clip: border-box; */
+    font-size: 25px;
+    width: 70%;
+
+}
+
+p.en {
+    font-weight: 700;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-clip: border-box; */
+    font-size: 25px;
+    line-height: 2;
+    width: 70%;
+}
+
+p.other {
+    text-align: left;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 17px;
+}
+
+h1 {
+    font-family: "Arial Black", 'Segoe UI', sans-serif;
+    font-size: 45px;
+}
+
+h2 {
+    font-family: "Arial Black", 'Segoe UI', sans-serif;
+    font-size: 30px;
+}
+
+label.end {
+    color: rgb(106, 218, 243);
+}
